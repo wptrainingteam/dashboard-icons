@@ -116,14 +116,16 @@ Suggested exercises are meant to reinforce the acquired knowledge of performing 
 
 ## Quiz
 
-**What kind of icons are WordPress dashicons? **
+**What kind of icons are WordPress dashicons?**
 
 1.  Inline SVG
 2.  Icon font
 3.  CSS image sprites
 4.  Embedded .png files
 
-**Answer:** 2\. Icon font **What is a prerequisite to adding an icon to a custom post via 'menu_icon' => 'dashicons-iconname'?**
+**Answer:** 2. Icon font
+
+**What is a prerequisite to adding an icon to a custom post via 'menu_icon' => 'dashicons-iconname'?**
 
 1.  Enqueue dashicons with functions.php
 2.  Download dashicons to your server
