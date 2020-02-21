@@ -2,7 +2,7 @@
 
 ## Description
 
-In this lesson you will learn about dashboard icons, how they are composed, and how your themes, plugins, and posts benefit from using dashboard icons.
+In this lesson, you will learn about dashboard icons, how they are composed, and how your themes, plugins, and posts benefit from using dashboard icons.
 
 ## Prerequisite Skills
 
